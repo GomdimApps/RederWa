@@ -1,16 +1,3 @@
-<style>
-  .responsive-image {
-    width: 700px;
-    height: 400px;
-  }
-
-  @media (max-width: 600px) {
-    .responsive-image {
-      width: 400px;
-      height: 220px;
-    }
-  }
-</style>
 
 # Documentação de Instalação do RederWA Bot de Automação do WhatsApp
 
@@ -164,7 +151,7 @@ Nesta seção, vamos abordar a integração do bot RederWA com o Dialogflow, uma
    - Faça login no Console do Dialogflow usando suas conta google.
 2. Obtenha as credenciais de uso (API key) do Dialogflow: veja o video.
 
- [<img class="responsive-image" src="https://docs.kony.com/marketplace/ChatbotV3/Content/Resources/Images/Chatbot_DialogflowV2_JSONFile.png" alt="descrição da imagem" width="1280" height="720">](https://www.youtube.com/watch?v=lUVT6r5-NrE)
+ [<img src="https://docs.kony.com/marketplace/ChatbotV3/Content/Resources/Images/Chatbot_DialogflowV2_JSONFile.png" alt="descrição da imagem" width="1280" height="720">](https://www.youtube.com/watch?v=lUVT6r5-NrE)
 
 # Configurando o arquivo de credenciais do Dialogflow e Painel
 
@@ -181,7 +168,7 @@ Com essas etapas, você terá configurado corretamente o arquivo de credenciais 
    - No Console do Dialogflow, crie um novo agente.
    - Configure as intenções (intents), entidades (entities) e respostas do seu agente de acordo com as interações desejadas. veja nossa playlist de como usar o dialogflow.
 
- [<img class="responsive-image" src="https://www.kommunicate.io/blog/wp-content/uploads/2021/10/19-1.png" alt="descrição da imagem" width="1280" height="720">](https://www.youtube.com/playlist?list=PLlqXqdYg2QK-0zy8XLFdqbanEAv-rqKa_)
+ [<img src="https://www.kommunicate.io/blog/wp-content/uploads/2021/10/19-1.png" alt="descrição da imagem" width="1280" height="720">](https://www.youtube.com/playlist?list=PLlqXqdYg2QK-0zy8XLFdqbanEAv-rqKa_)
 
 
 Agora você possui uma conta no Dialogflow e as credenciais de uso necessárias para a integração com o bot RederWA. Certifique-se de utilizar essas credenciais corretamente durante o processo de configuração do bot.
